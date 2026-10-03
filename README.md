@@ -1,9 +1,17 @@
-# Aplicativo-de-Anuncios-Flutter
+# appanuncios
 
-Desenvolva um aplicativo Flutter que terá como objetivo cadastrar e apresentar anúncios de serviços e/ou produtos (OLX, Mercado Livre, … ). Cada anúncio terá, inicialmente, um título, descrição e preço. Os anúncios cadastrados deverão ser apresentados ao usuário em uma estrutura de lista, conforme apresentado em aula. 
+A new Flutter project.
 
-Para realizar as operações de cadastro e edição é obrigatório a utilização de uma segunda tela, realizando a transição sempre que essas operações forem requisitadas. A operação de remoção poderá ser realizada diretamente na lista. 
+## Getting Started
 
-Inicialmente o aplicativo não salvará as informações em Banco de Dados e/ou arquivos. Todo controle dos anúncios salvos, editados e/ou removidos serão executados em uma lista. Futuramente iremos aprender a trabalhar com Banco de Dados. 
+This project is a starting point for a Flutter application.
 
-Escolha e replique a interface de um e-commerce atual para seu app (Mercado Livre, OLX, Americanas, Magazine Luiza....)  PS: Somente a tela de lista de itens, não precisa replicar neste momento as telas inicias.
+A few resources to get you started if this is your first Flutter project:
+
+- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
+- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
